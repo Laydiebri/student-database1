@@ -1,0 +1,27 @@
+{
+  "name": "student-database1",
+  "version": "0.0.2",
+  "description": "Student database application written in Javascript",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Laydiebri/student-database1.git"
+  },
+  "keywords": [
+    "JavaScript",
+    "Node.js",
+    "Express.js",
+    "SQLite",
+    "Angular.js"
+  ],
+  "author": "Zabrina Osborne",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Laydiebri/student-database1/issues"
+  },
+  "homepage": "https://github.com/Laydiebri/student-database1#readme"
+}
